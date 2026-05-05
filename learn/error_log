@@ -1,0 +1,1078 @@
+[25-Apr-2026 08:37:53 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 08:38:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 08:40:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 08:40:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 09:08:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ukloolec_learninghub.assessment_results' doesn't exist in /home/ukloolec/public_html/learn/assessment-submit.php:79
+Stack trace:
+#0 /home/ukloolec/public_html/learn/assessment-submit.php(79): mysqli->prepare('INSERT INTO ass...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/assessment-submit.php on line 79
+[25-Apr-2026 09:18:15 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 09:18:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 14:15:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 15:01:30 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1672
+[25-Apr-2026 15:01:33 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1672
+[25-Apr-2026 15:01:38 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1672
+[25-Apr-2026 15:01:41 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1672
+[25-Apr-2026 16:09:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:32 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:39 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:52 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:54 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:57 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:57 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:58 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:09:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:00 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:20 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:29 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:32 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:10:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:04 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:09 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:12 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:16 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:21 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:45 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:11:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:12:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:12:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:12:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:12:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:16 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:28 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:32 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:35 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:51 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:13:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:14:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:14:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:15:26 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:15:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:21:09 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:21:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:45 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:49 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:32:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:35:37 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:35:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:35:38 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:35:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:35:39 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:35:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:18 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:20 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:38:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:39:52 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:39:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:39:56 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 16:39:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:00:47 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1677
+[25-Apr-2026 17:00:50 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1677
+[25-Apr-2026 17:01:56 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1677
+[25-Apr-2026 17:04:59 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1673
+[25-Apr-2026 17:05:10 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1673
+[25-Apr-2026 17:05:35 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1673
+[25-Apr-2026 17:08:14 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 17:08:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2074
+[25-Apr-2026 17:12:20 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:21 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:29 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:33 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:34 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:36 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:36 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:36 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:37 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:37 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:37 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:38 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:38 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:12:38 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:18:33 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 17:19:36 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:53 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 17:19:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1844
+[25-Apr-2026 19:22:15 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1670
+[25-Apr-2026 19:25:17 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2070
+[25-Apr-2026 19:25:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2070
+[25-Apr-2026 19:25:41 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2070
+[25-Apr-2026 19:27:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2070
+[25-Apr-2026 19:37:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/ukloolec/public_html/learn/admin.php on line 2070
+[25-Apr-2026 19:56:41 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:56:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:56:48 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:56:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:00 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:12 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:57:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 19:59:47 UTC] PHP Warning:  Undefined variable $action in /home/ukloolec/public_html/learn/admin.php on line 60
+[25-Apr-2026 19:59:47 UTC] PHP Warning:  Undefined variable $action in /home/ukloolec/public_html/learn/admin.php on line 71
+[25-Apr-2026 19:59:47 UTC] PHP Warning:  Undefined variable $action in /home/ukloolec/public_html/learn/admin.php on line 76
+[25-Apr-2026 20:00:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 20:00:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1932
+[25-Apr-2026 20:03:02 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1757
+[25-Apr-2026 20:05:28 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/ukloolec/public_html/learn/admin.php on line 1757
+[25-Apr-2026 20:11:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:11 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:24 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:30 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:35 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:38 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:41 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:53 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:11:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:01 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:26 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:32 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:12:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:21 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:28 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:35 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:46 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:52 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:13:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:09 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:17 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:14:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:07 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:18 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:24 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:30 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:37 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:48 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:15:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1928
+[25-Apr-2026 20:19:34 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:19:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:19:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:19:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:19:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:19:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:19:53 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:19:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:20:01 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:20:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:20:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:20:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:20:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:20:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:21:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:21:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:22:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:22:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:26 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:30 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:52 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:58 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:23:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:24:03 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:24:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:24:16 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:24:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:24:20 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:24:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:30 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:37 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:45 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:49 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:27:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:28:51 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:28:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:28:56 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:28:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1998
+[25-Apr-2026 20:33:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:20 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:31 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:33:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:51 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:34:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:35:18 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:35:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:35:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:35:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:35:58 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:35:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1999
+[25-Apr-2026 20:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[25-Apr-2026 20:41:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[25-Apr-2026 20:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[25-Apr-2026 20:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[25-Apr-2026 20:45:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:45:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:45:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:45:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:45:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:45:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:45:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:45:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[25-Apr-2026 20:51:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:51:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[25-Apr-2026 20:52:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:52:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:52:11 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[25-Apr-2026 20:52:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:30 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:34 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:41 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:51 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:44:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:45:03 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:45:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:45:17 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:45:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[26-Apr-2026 10:47:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[26-Apr-2026 10:47:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:30 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[26-Apr-2026 10:47:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:49 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:54 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:47:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:10 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[26-Apr-2026 10:48:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:56 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:48:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:49:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 10:49:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:30:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:30:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:30:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[26-Apr-2026 17:30:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:30:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:30:38 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:30:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:31:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:31:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:31:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[26-Apr-2026 17:31:28 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:31:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:31:38 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:31:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:38:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:38:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1613
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1613
+[26-Apr-2026 17:38:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:38:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2008
+[26-Apr-2026 17:44:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:44:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:44:37 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:44:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1665
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1665
+[26-Apr-2026 17:44:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1665
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1665
+[26-Apr-2026 17:44:51 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:44:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1665
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1665
+[26-Apr-2026 17:45:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:45:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:45:04 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:45:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:32 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:36 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:46 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:54 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:57 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:48:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2060
+[26-Apr-2026 17:50:11 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2061
+[26-Apr-2026 17:50:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2061
+[26-Apr-2026 17:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1665
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1665
+[26-Apr-2026 17:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1665
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1665
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 886
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 887
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 889
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 890
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 891
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 892
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 893
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 894
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 896
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 897
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 898
+[26-Apr-2026 17:53:11 UTC] PHP Warning:  Undefined variable $conn in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ukloolec/public_html/learn/admin.php:901
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 886
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 887
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 889
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 890
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 891
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 892
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 893
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 894
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 896
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 897
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 898
+[26-Apr-2026 17:53:32 UTC] PHP Warning:  Undefined variable $conn in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ukloolec/public_html/learn/admin.php:901
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 886
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 887
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 889
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 890
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 891
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 892
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 893
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 894
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 896
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 897
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 898
+[26-Apr-2026 17:53:37 UTC] PHP Warning:  Undefined variable $conn in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ukloolec/public_html/learn/admin.php:901
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 886
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 887
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 889
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 890
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 891
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 892
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 893
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 894
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 896
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 897
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 898
+[26-Apr-2026 17:53:42 UTC] PHP Warning:  Undefined variable $conn in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ukloolec/public_html/learn/admin.php:901
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 886
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 887
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 889
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 890
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 891
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 892
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 893
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 894
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 896
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 897
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $tab in /home/ukloolec/public_html/learn/admin.php on line 898
+[26-Apr-2026 17:53:46 UTC] PHP Warning:  Undefined variable $conn in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ukloolec/public_html/learn/admin.php:901
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 901
+[26-Apr-2026 17:57:09 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1992
+[26-Apr-2026 17:57:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1992
+[26-Apr-2026 17:57:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1596
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1596
+[26-Apr-2026 17:57:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1992
+[26-Apr-2026 17:57:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1992
+[26-Apr-2026 17:57:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1992
+[26-Apr-2026 17:57:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1992
+[26-Apr-2026 17:58:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1596
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1596
+[26-Apr-2026 18:01:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[26-Apr-2026 18:01:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[26-Apr-2026 18:01:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1593
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1593
+[26-Apr-2026 18:01:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[26-Apr-2026 18:01:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[26-Apr-2026 18:01:32 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[26-Apr-2026 18:01:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:16 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:21 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1593
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1593
+[27-Apr-2026 11:49:31 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:46 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:49:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:53:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:53:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1593
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1593
+[27-Apr-2026 11:53:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:53:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:53:30 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 11:53:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 1989
+[27-Apr-2026 12:31:12 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:31:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:31:18 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:31:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:31:54 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:31:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:20 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:28 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:32:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:37:45 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:37:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:37:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:37:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:57:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:57:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2113
+[27-Apr-2026 12:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_substr() in /home/ukloolec/public_html/learn/admin.php:1628
+Stack trace:
+#0 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 1628
+[29-Apr-2026 14:14:28 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:14:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:14:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:14:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:15:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:15:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:15:21 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:15:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:16:31 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:16:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:21:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:51:24 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 14:51:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:37:36 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:37:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:37:41 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:37:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:39:17 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:39:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:39:23 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2328
+[29-Apr-2026 15:39:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2328
+[01-May-2026 10:14:59 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 10:14:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 10:15:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 10:15:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 10:16:37 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 10:16:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 10:19:25 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 10:19:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:51 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:27:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:28:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:28:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:17 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:28 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:35 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:31:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:35:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:35:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:35:57 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:35:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:10 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:17 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:21 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:36:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:37:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:37:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:37:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:37:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:38:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:38:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:38:18 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 14:38:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:25 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:53 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:59 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:50:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:51:07 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:51:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:51:35 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:51:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:56:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:56:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:56:57 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:56:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:26 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:29 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:57 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:57:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:58:11 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:58:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:58:12 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:58:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:58:16 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 18:58:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 20:13:01 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 20:13:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 20:17:56 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 20:17:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 20:26:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 20:26:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:56:16 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:56:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:56:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:56:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:56:58 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:56:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:57:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:57:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:57:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:57:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:58:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[01-May-2026 22:58:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:25:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:25:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:03 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:07 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:22 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:26:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:27:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:27:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:54:36 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:54:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:54:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:54:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:54:45 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:54:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:55:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:55:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:59:07 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 09:59:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 10:01:34 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 10:01:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 10:05:00 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 10:05:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:26:36 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:26:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:26:40 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:26:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:30:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:30:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:31:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:31:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:47:54 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:47:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:48:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:48:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:51 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:49:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:50:00 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:50:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:50:09 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:50:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:50:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 11:50:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:29 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:41 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:46 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:55:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:58:03 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:58:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:58:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:58:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:58:48 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 12:58:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:00:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:00:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:01:53 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:01:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:04:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:04:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:06:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:06:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:06:26 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:06:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:07:16 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:07:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:07:29 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:07:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:09:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:09:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:56:07 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 13:56:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2324
+[02-May-2026 14:00:31 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:00:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:00:39 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:00:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:00:41 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:00:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:00:48 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:00:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:03 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:29 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:44 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:54 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:03:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:04:04 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:04:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:04:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:04:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:04:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:04:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:14 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:17 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:53 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:58 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:05:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:06:42 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:06:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:06:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:06:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:27 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:37 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:48 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:07:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:04 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:12 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:31 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:34 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:41 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:46 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:08:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:18:59 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:18:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:19:04 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:19:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:19:10 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:19:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:28:25 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/ukloolec/public_html/learn/test-mailer.php on line 30
+[02-May-2026 14:28:37 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/ukloolec/public_html/learn/test-mailer.php on line 30
+[02-May-2026 14:28:45 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/ukloolec/public_html/learn/test-mailer.php on line 30
+[02-May-2026 14:33:24 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:33:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:49:00 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 14:49:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:39:12 UTC] PHP Parse error:  syntax error, unexpected token "use" in /home/ukloolec/public_html/learn/test-resend.php on line 16
+[02-May-2026 15:58:36 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:43 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:47 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:55 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:59 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:58:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:02 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:04 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:06 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:08 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:12 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:15 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 15:59:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:48:42 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:48:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:48:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:48:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:49:04 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:49:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:49:19 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[02-May-2026 19:49:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:14:03 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:14:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:14:13 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:14:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:14:36 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:14:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:17:33 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:17:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:23:21 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:23:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:23:50 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:23:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:58:48 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:58:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:59:05 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:59:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:59:18 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 14:59:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 15:14:24 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 15:14:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 15:14:29 UTC] PHP Warning:  Undefined variable $mods in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 15:14:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ukloolec/public_html/learn/admin.php on line 2477
+[04-May-2026 16:00:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:01:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:02:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:02:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:09:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:15:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:15:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:16:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:16:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:17:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:33:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:33:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:45:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 16:48:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:146
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(146): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 146
+[04-May-2026 17:39:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:154
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(154): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 154
+[04-May-2026 17:43:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS file_type VARCHAR(10) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/admin.php:154
+Stack trace:
+#0 /home/ukloolec/public_html/learn/admin.php(154): mysqli->query('ALTER TABLE res...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/admin.php on line 154
+[04-May-2026 17:52:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS reset_token VARCHAR(64) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/community-login.php:12
+Stack trace:
+#0 /home/ukloolec/public_html/learn/community-login.php(12): mysqli->query('ALTER TABLE com...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/community-login.php on line 12
+[04-May-2026 17:52:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF NOT EXISTS reset_token VARCHAR(64) NULL DEFAULT NULL' at line 1 in /home/ukloolec/public_html/learn/community-login.php:12
+Stack trace:
+#0 /home/ukloolec/public_html/learn/community-login.php(12): mysqli->query('ALTER TABLE com...')
+#1 {main}
+  thrown in /home/ukloolec/public_html/learn/community-login.php on line 12
